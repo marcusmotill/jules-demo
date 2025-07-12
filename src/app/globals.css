@@ -3,6 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --custom-yellow: #FFF9C4; /* Light Yellow */
 }
 
 @theme inline {
