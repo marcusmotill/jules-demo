@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-start p-12 md:p-24 bg-white text-gray-800">
+    <main className="flex min-h-screen flex-col items-center justify-start p-12 md:p-24 bg-transparent text-gray-800">
       {/* Hero Section */}
       <section className="w-full max-w-5xl items-center justify-center text-center py-16 md:py-24">
         <h1 className="text-5xl md:text-7xl font-bold text-gray-900">
